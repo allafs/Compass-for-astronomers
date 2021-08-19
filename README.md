@@ -12,5 +12,6 @@ Future changes are planned, including:
 4- Add to the Menu the Local Sidereal Time, the local coordinates, the local time, the local height, the local temperature and humidity data and the geographic coordinates;
 5- Provide a small database of astronomical object coordinates;
 6- Send commands to GOTO via Bluetooth using LX200 protocol.
+Here you will find more information: https://www.instructables.com/Compass-for-Astronomers/
 
 Contributions are welcome.
