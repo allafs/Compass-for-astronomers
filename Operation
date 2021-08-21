@@ -1,0 +1,20 @@
+Operating is easy.
+
+1) When turning on the equipment, it will calibrate the LSM303 D automatically.
+
+2) The menu indicates the magnetic compass.
+You can navigate to other functions using the left and right buttons.
+But the first thing to do is level the telescope tripod.
+To do this, mount the tripod, with one leg facing north if you are in the northern hemisphere 
+of the planet or to the south if you are in the southern hemisphere. 
+Navigate the menu to "Leveling" and press the center button.
+The indicator shows the values that must be zero for the base to be level.
+
+3) After leveling, press the central button to stop the reading and navigate with the side buttons to “Compass Magn” and press the central button again for reading.
+Locate the north. Use the pointer to mark geographic north according to your location on the planet.
+Point the telescope to the geographic north or south, depending on which hemisphere you are in.
+
+4) If you want to know the vertical inclination of the observed object, just access the "Inclination" menu,
+activate the reading and position the equipment base on the telescope body.
+
+Finally, I put a scale in centimeters, next to the equipment, if you want to use it in a geographic location map.
